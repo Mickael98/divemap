@@ -5,7 +5,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: 100vh;
+    height: 100vh; /* Prendre toute la hauteur de l'écran */
 }
 
 h1 {
@@ -13,8 +13,8 @@ h1 {
 }
 
 #map {
-    height: 70vh;
-    width: 80%;
+    height: 70vh; /* 70% de la hauteur de la fenêtre */
+    width: 80%;   /* 80% de la largeur de l'écran */
     margin: 20px 0;
     border: 2px solid #ccc;
     border-radius: 10px;
