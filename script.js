@@ -13,6 +13,6 @@ fetch('sites.json')
     .then(data => {
         data.forEach(site => {
             L.marker([site.lat, site.lng]).addTo(map)
-                .bindPopup(`<b>${site.name}</b><br>Profondeur min: ${site.min_depth}m<br>Profondeur max: ${site.max_depth}m`);
+                .bindPopup(`<b>${site.name}</b><br>Localisation: ${site.location}<br><br>Profondeur min: ${site.min_depth}m<br>Profondeur max: ${site.max_depth}m`);
         });
     });
