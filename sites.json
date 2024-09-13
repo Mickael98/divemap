@@ -152,9 +152,49 @@
         "location": "Moorea"
     },
     {
-        "name": "Le Site des Requins Citron",
-        "lat": -17.501525010478407,
-        "lng": -149.92165742219942,
+        "name": "L'île bleue",
+        "lat": -17.470286994275213,
+        "lng": -149.82884619073423,
+        "min_depth": 30,
+        "max_depth": 50,
+        "location": "Moorea"
+    },
+    {
+        "name": "Les Jumeaux",
+        "lat": -17.475179123773287,
+        "lng": -149.83300994087614,
+        "min_depth": 30,
+        "max_depth": 50,
+        "location": "Moorea"
+    },
+    {
+        "name": "Rotui",
+        "lat": -17.473869209419565,
+        "lng": -149.84648535801676,
+        "min_depth": 30,
+        "max_depth": 50,
+        "location": "Moorea"
+    },
+    {
+        "name": "Mamaru",
+        "lat": -17.478617604092886,
+        "lng": -149.85129187623252,
+        "min_depth": 30,
+        "max_depth": 50,
+        "location": "Moorea"
+    },
+    {
+        "name": "Tiki",
+        "lat": -17.492698321746936,
+        "lng": -149.92733786389005,
+        "min_depth": 30,
+        "max_depth": 50,
+        "location": "Moorea"
+    },
+    {
+        "name": "Canyon",
+        "lat": -17.476816503547642,
+        "lng": -149.87420867146943,
         "min_depth": 18,
         "max_depth": 40,
         "location": "Moorea"
