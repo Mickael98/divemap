@@ -104,6 +104,64 @@
         "location": "Tahiti"
     },
     {
+        "name": "Les 3 pitons",
+        "lat": -17.630869913310473,
+        "lng": -149.61991254728187,
+        "min_depth": 25,
+        "max_depth": 40,
+        "location": "Tahiti"
+        , 
+    }, 
+    {
+        "name": "Les 3 épaves",
+        "lat": -17.549683779026193,
+        "lng": -149.62178059003256,
+        "min_depth": 25,
+        "max_depth": 40,
+        "location": "Tahiti"
+    }, 
+    {
+        "name": "Grotte de Tetopa",
+        "lat": -17.76717576044078,
+        "lng": -149.33572673218956,
+        "min_depth": 25,
+        "max_depth": 40,
+        "location": "Tahiti"
+    }, 
+    {
+        "name": "Trou du Lagon",
+        "lat": -17.766975659557563,
+        "lng": -149.32301430881267,
+        "min_depth": 25,
+        "max_depth": 40,
+        "location": "Tahiti"
+    }, 
+    {
+        "name": "Les Gorgones",
+        "lat": -17.808149458750098,
+        "lng": -149.31224686678067,
+        "min_depth": 25,
+        "max_depth": 40,
+        "location": "Tahiti"
+    },
+    {
+        "name": "Marado",
+        "lat": -17.83721569711403,
+        "lng": -149.30245902160138,
+        "min_depth": 25,
+        "max_depth": 40,
+        "location": "Tahiti"
+    },
+    {
+        "name": "Vavi",
+        "lat": -17.819726680550776,
+        "lng": -149.306265127959,
+        "min_depth": 25,
+        "max_depth": 40,
+        "location": "Tahiti"
+        , 
+    },
+    {
         "name": "Temae",
         "lat": -17.501090728642446,
         "lng": -149.7543704025079,
@@ -203,6 +261,22 @@
         "name": "Le Jardin des Roses",
         "lat": -17.467923130204785,
         "lng": -149.80553284210418,
+        "min_depth": 25,
+        "max_depth": 40,
+        "location": "Moorea"
+    },
+    {
+        "name": "Passe de Tiaia",
+        "lat": -17.472322187640412,
+        "lng": -149.8174817431177,
+        "min_depth": 25,
+        "max_depth": 40,
+        "location": "Moorea"
+    },
+    {
+        "name": "Taotoi",
+        "lat": -17.48035348975736,
+        "lng": -149.8956382501339,
         "min_depth": 25,
         "max_depth": 40,
         "location": "Moorea"
