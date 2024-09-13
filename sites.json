@@ -15,8 +15,8 @@
     },
     {
         "name": "La Vallée Blanche",
-        "lat": -17.6000,
-        "lng": -149.7000,
+        "lat": -17.52991466349888,
+        "lng": -149.5823810480651,
         "min_depth": 15,
         "max_depth": 30
     },
@@ -29,8 +29,15 @@
     },
     {
         "name": "La Grotte d'Arue",
-        "lat": -17.5074,
-        "lng": -149.4915,
+        "lat": -17.51629758352448,
+        "lng": -149.5478221377789,
+        "min_depth": 10,
+        "max_depth": 25 
+    },
+    {
+        "name": "La Faille d'Arue",
+        "lat": -17.515049448425433,
+        "lng": -149.52487693871203,
         "min_depth": 10,
         "max_depth": 25
     },
@@ -43,10 +50,17 @@
     },
     {
         "name": "L'Épave du Catalina",
-        "lat": -17.5435,
-        "lng": -149.7745,
+        "lat": -17.549215241843072,
+        "lng": -149.61245153402282,
         "min_depth": 18,
         "max_depth": 25
+    },
+    {
+        "name": "La Zelée",
+        "lat": -17.52866647170114,
+        "lng": -149.58578701480636,
+        "min_depth": 18,
+        "max_depth": 230
     },
     {
         "name": "La Vallée de Papetoai",
@@ -71,8 +85,8 @@
     },
     {
         "name": "Le Jardin des Roses",
-        "lat": -17.5300,
-        "lng": -149.7850,
+        "lat": -17.486435879143283,
+        "lng": -149.81899386501948,
         "min_depth": 25,
         "max_depth": 40
     },
@@ -85,50 +99,50 @@
     },
     {
         "name": "Le Récif de Faa'a",
-        "lat": -17.5532,
-        "lng": -149.6065,
+        "lat": -17.558302217937467,
+        "lng": -149.62935027523721,
         "min_depth": 8,
         "max_depth": 20
     },
     {
         "name": "La Source",
-        "lat": -17.5436,
-        "lng": -149.6115,
+        "lat": -17.632716343195387,
+        "lng": -149.62102841948285,
         "min_depth": 20,
         "max_depth": 35
     },
     {
         "name": "Papa Whiskey",
-        "lat": -17.5314,
-        "lng": -149.6150,
+        "lat": -17.568324780036,
+        "lng": -149.62798271592666,
         "min_depth": 15,
         "max_depth": 40
     },
     {
         "name": "Aquarium",
-        "lat": -17.5547,
-        "lng": -149.6175,
+        "lat": -17.565276684985935,
+        "lng": -149.62750528259096,
         "min_depth": 5,
         "max_depth": 15
     },
     {
         "name": "Tombant St Etienne",
-        "lat": -17.5555,
-        "lng": -149.6123,
+        "lat": -17.610604862867127,
+        "lng": -149.62096477261895,
         "min_depth": 20,
         "max_depth": 40
     },
     {
         "name": "Faille St Etienne",
-        "lat": -17.5560,
-        "lng": -149.6140,
+        "lat": -17.61500994482749,
+        "lng": -149.61998852545426,
         "min_depth": 18,
         "max_depth": 35
     },
     {
         "name": "Banc aux dauphins",
-        "lat": -17.5773,
-        "lng": -149.6042,
+        "lat": -17.497693671696144,
+        "lng": -149.50015636581867,
         "min_depth": 10,
         "max_depth": 25
     }
