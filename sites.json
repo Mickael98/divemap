@@ -4,23 +4,23 @@
         "lat": -17.52991466349888,
         "lng": -149.5823810480651,
         "min_depth": 15,
-        "max_depth": 30,
+        "max_depth": 35,
         "location": "Tahiti"
     },
     {
         "name": "La Grotte d'Arue",
         "lat": -17.51629758352448,
         "lng": -149.5478221377789,
-        "min_depth": 10,
-        "max_depth": 25,
+        "min_depth": 5,
+        "max_depth": 40,
         "location": "Tahiti"
     },
     {
         "name": "La Faille d'Arue",
         "lat": -17.515049448425433,
         "lng": -149.52487693871203,
-        "min_depth": 10,
-        "max_depth": 25,
+        "min_depth": 5,
+        "max_depth": 40,
         "location": "Tahiti"
     },
     {
@@ -35,8 +35,8 @@
         "name": "La Zelée",
         "lat": -17.52866647170114,
         "lng": -149.58578701480636,
-        "min_depth": 18,
-        "max_depth": 230,
+        "min_depth": 5,
+        "max_depth": 20,
         "location": "Tahiti"
     },
     {
@@ -59,7 +59,7 @@
         "name": "La Source",
         "lat": -17.632716343195387,
         "lng": -149.62102841948285,
-        "min_depth": 20,
+        "min_depth": 4,
         "max_depth": 35,
         "location": "Tahiti"
     },
@@ -67,7 +67,7 @@
         "name": "Papa Whiskey",
         "lat": -17.568324780036,
         "lng": -149.62798271592666,
-        "min_depth": 15,
+        "min_depth": 5,
         "max_depth": 40,
         "location": "Tahiti"
     },
@@ -75,15 +75,15 @@
         "name": "Aquarium",
         "lat": -17.565276684985935,
         "lng": -149.62750528259096,
-        "min_depth": 5,
-        "max_depth": 15,
+        "min_depth": 2,
+        "max_depth": 13,
         "location": "Tahiti"
     },
     {
         "name": "Tombant St Etienne",
         "lat": -17.610604862867127,
         "lng": -149.62096477261895,
-        "min_depth": 20,
+        "min_depth": 5,
         "max_depth": 40,
         "location": "Tahiti"
     },
@@ -107,7 +107,7 @@
         "name": "Les 3 pitons",
         "lat": -17.630869913310473,
         "lng": -149.61991254728187,
-        "min_depth": 25,
+        "min_depth": 5,
         "max_depth": 40,
         "location": "Tahiti"
     }, 
@@ -115,8 +115,24 @@
         "name": "Les 3 épaves",
         "lat": -17.549683779026193,
         "lng": -149.62178059003256,
-        "min_depth": 25,
-        "max_depth": 40,
+        "min_depth": 2,
+        "max_depth": 30,
+        "location": "Tahiti"
+    },
+    {
+        "name": "Les Eboulis",
+        "lat": -17.587087403851296, 
+        "lng": -149.62232991346562,
+        "min_depth": 3,
+        "max_depth": 20,
+        "location": "Tahiti"
+    },
+    {
+        "name": "Mont Rey-Rey",
+        "lat": -17.573559276407696, 
+        "lng": -149.62744850861338,
+        "min_depth": 3,
+        "max_depth": 20,
         "location": "Tahiti"
     }, 
     {
