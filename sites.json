@@ -366,8 +366,7 @@
         "min_depth": 25,
         "max_depth": 40,
         "location": "Huahine"
-    }
-    ,
+    },
     {
         "name": "La cité de corail", , 
         "lat": -16.680084157028546,
@@ -375,8 +374,7 @@
         "min_depth": 25,
         "max_depth": 40,
         "location": "Huahine"
-    }
-    ,
+    },
     {
         "name": "Fa'amiti",
         "lat": -16.699475194686805,
@@ -384,8 +382,7 @@
         "min_depth": 25,
         "max_depth": 40,
         "location": "Huahine"
-    }
-    ,
+    },
     {
         "name": "Passe Avamoa",
         "lat": -16.709738241676188,
@@ -393,8 +390,7 @@
         "min_depth": 25,
         "max_depth": 40,
         "location": "Huahine"
-    }
-    ,
+    },
     {
         "name": "Passe Avapeihi",
         "lat": -16.72627090245635,
@@ -402,8 +398,7 @@
         "min_depth": 25,
         "max_depth": 40,
         "location": "Huahine"
-    }
-    ,
+    },
     {
         "name": "Aquarium",
         "lat": -16.732031263509775,
@@ -411,8 +406,7 @@
         "min_depth": 25,
         "max_depth": 40,
         "location": "Huahine"
-    }
-    ,
+    },
     {
         "name": "Le tombant de Fitii",
         "lat": -16.740246970152974,
