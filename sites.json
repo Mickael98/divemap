@@ -1,35 +1,11 @@
 [
     {
-        "name": "Le Trou aux Requins",
-        "lat": -17.5685,
-        "lng": -149.8693,
-        "min_depth": 20,
-        "max_depth": 30,
-        "location": "Moorea"
-    },
-    {
-        "name": "Le Lagon de Moorea",
-        "lat": -17.5381,
-        "lng": -149.8295,
-        "min_depth": 10,
-        "max_depth": 20,
-        "location": "Moorea"
-    },
-    {
         "name": "La Vallée Blanche",
         "lat": -17.52991466349888,
         "lng": -149.5823810480651,
         "min_depth": 15,
         "max_depth": 30,
         "location": "Tahiti"
-    },
-    {
-        "name": "Le Mur de Corail",
-        "lat": -17.5512,
-        "lng": -149.8356,
-        "min_depth": 12,
-        "max_depth": 25,
-        "location": "Moorea"
     },
     {
         "name": "La Grotte d'Arue",
@@ -48,14 +24,6 @@
         "location": "Tahiti"
     },
     {
-        "name": "Le Jardin de Corail",
-        "lat": -17.5063,
-        "lng": -149.7627,
-        "min_depth": 5,
-        "max_depth": 15,
-        "location": "Moorea"
-    },
-    {
         "name": "L'Épave du Catalina",
         "lat": -17.549215241843072,
         "lng": -149.61245153402282,
@@ -70,38 +38,6 @@
         "min_depth": 18,
         "max_depth": 230,
         "location": "Tahiti"
-    },
-    {
-        "name": "La Vallée de Papetoai",
-        "lat": -17.4980,
-        "lng": -149.8820,
-        "min_depth": 15,
-        "max_depth": 30,
-        "location": "Moorea"
-    },
-    {
-        "name": "Le Tombant de Moorea",
-        "lat": -17.5382,
-        "lng": -149.8333,
-        "min_depth": 30,
-        "max_depth": 50,
-        "location": "Moorea"
-    },
-    {
-        "name": "Le Site des Requins Citron",
-        "lat": -17.5200,
-        "lng": -149.7750,
-        "min_depth": 18,
-        "max_depth": 40,
-        "location": "Moorea"
-    },
-    {
-        "name": "Le Jardin des Roses",
-        "lat": -17.486435879143283,
-        "lng": -149.81899386501948,
-        "min_depth": 25,
-        "max_depth": 40,
-        "location": "Moorea"
     },
     {
         "name": "Les Roses de Matavai",
@@ -166,5 +102,69 @@
         "min_depth": 10,
         "max_depth": 25,
         "location": "Tahiti"
+    },
+    {
+        "name": "Temae",
+        "lat": -17.501090728642446,
+        "lng": -149.7543704025079,
+        "min_depth": 20,
+        "max_depth": 30,
+        "location": "Moorea"
+    },
+    {
+        "name": "Eden Park",
+        "lat": -17.48014344098056,
+        "lng": -149.86762592850795,
+        "min_depth": 10,
+        "max_depth": 20,
+        "location": "Moorea"
+    },
+    {
+        "name": "Aquarium",
+        "lat": -17.478101406369248,
+        "lng": -149.8209856899897,
+        "min_depth": 12,
+        "max_depth": 25,
+        "location": "Moorea"
+    },
+    {
+        "name": "Le Mur de Corail",
+        "lat": -17.484994168940208,
+        "lng": -149.86186308196898,
+        "min_depth": 5,
+        "max_depth": 15,
+        "location": "Moorea"
+    },
+    {
+        "name": "Papetoai",
+        "lat": -17.48493377108548,
+        "lng": -149.88466936882864,
+        "min_depth": 15,
+        "max_depth": 30,
+        "location": "Moorea"
+    },
+    {
+        "name": "Mur de Bali-Haï",
+        "lat": -17.47246539937346,
+        "lng": -149.80212134036861,
+        "min_depth": 30,
+        "max_depth": 50,
+        "location": "Moorea"
+    },
+    {
+        "name": "Le Site des Requins Citron",
+        "lat": -17.501525010478407,
+        "lng": -149.92165742219942,
+        "min_depth": 18,
+        "max_depth": 40,
+        "location": "Moorea"
+    },
+    {
+        "name": "Le Jardin des Roses",
+        "lat": -17.467923130204785,
+        "lng": -149.80553284210418,
+        "min_depth": 25,
+        "max_depth": 40,
+        "location": "Moorea"
     }
 ]
