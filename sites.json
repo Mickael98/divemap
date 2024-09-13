@@ -358,5 +358,67 @@
         "min_depth": 25,
         "max_depth": 40,
         "location": "Tahaa"
+    },
+    {
+        "name": "Les Roses",
+        "lat": -16.675427829124565,
+        "lng": -150.99671749123948,
+        "min_depth": 25,
+        "max_depth": 40,
+        "location": "Huahine"
+    }
+    ,
+    {
+        "name": "La cité de corail", , 
+        "lat": -16.680084157028546,
+        "lng": -151.03041905418922,
+        "min_depth": 25,
+        "max_depth": 40,
+        "location": "Huahine"
+    }
+    ,
+    {
+        "name": "Fa'amiti",
+        "lat": -16.699475194686805,
+        "lng": -151.04480152436048,
+        "min_depth": 25,
+        "max_depth": 40,
+        "location": "Huahine"
+    }
+    ,
+    {
+        "name": "Passe Avamoa",
+        "lat": -16.709738241676188,
+        "lng": -151.04851816101632,
+        "min_depth": 25,
+        "max_depth": 40,
+        "location": "Huahine"
+    }
+    ,
+    {
+        "name": "Passe Avapeihi",
+        "lat": -16.72627090245635,
+        "lng": -151.04972967682338,
+        "min_depth": 25,
+        "max_depth": 40,
+        "location": "Huahine"
+    }
+    ,
+    {
+        "name": "Aquarium",
+        "lat": -16.732031263509775,
+        "lng": -151.04254039614034,
+        "min_depth": 25,
+        "max_depth": 40,
+        "location": "Huahine"
+    }
+    ,
+    {
+        "name": "Le tombant de Fitii",
+        "lat": -16.740246970152974,
+        "lng": -151.0474499321062,
+        "min_depth": 25,
+        "max_depth": 40,
+        "location": "Huahine"
     }
 ]
