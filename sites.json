@@ -1,16 +1,135 @@
 [
     {
-        "name": "Site de Plongée 1",
-        "lat": 43.296482,
-        "lng": 5.36978,
+        "name": "Le Trou aux Requins",
+        "lat": -17.5685,
+        "lng": -149.8693,
+        "min_depth": 20,
+        "max_depth": 30
+    },
+    {
+        "name": "Le Lagon de Moorea",
+        "lat": -17.5381,
+        "lng": -149.8295,
+        "min_depth": 10,
+        "max_depth": 20
+    },
+    {
+        "name": "La Vallée Blanche",
+        "lat": -17.6000,
+        "lng": -149.7000,
+        "min_depth": 15,
+        "max_depth": 30
+    },
+    {
+        "name": "Le Mur de Corail",
+        "lat": -17.5512,
+        "lng": -149.8356,
+        "min_depth": 12,
+        "max_depth": 25
+    },
+    {
+        "name": "La Grotte d'Arue",
+        "lat": -17.5074,
+        "lng": -149.4915,
+        "min_depth": 10,
+        "max_depth": 25
+    },
+    {
+        "name": "Le Jardin de Corail",
+        "lat": -17.5063,
+        "lng": -149.7627,
+        "min_depth": 5,
+        "max_depth": 15
+    },
+    {
+        "name": "L'Épave du Catalina",
+        "lat": -17.5435,
+        "lng": -149.7745,
+        "min_depth": 18,
+        "max_depth": 25
+    },
+    {
+        "name": "La Vallée de Papetoai",
+        "lat": -17.4980,
+        "lng": -149.8820,
+        "min_depth": 15,
+        "max_depth": 30
+    },
+    {
+        "name": "Le Tombant de Moorea",
+        "lat": -17.5382,
+        "lng": -149.8333,
+        "min_depth": 30,
+        "max_depth": 50
+    },
+    {
+        "name": "Le Site des Requins Citron",
+        "lat": -17.5200,
+        "lng": -149.7750,
+        "min_depth": 18,
+        "max_depth": 40
+    },
+    {
+        "name": "Le Jardin des Roses",
+        "lat": -17.5300,
+        "lng": -149.7850,
+        "min_depth": 25,
+        "max_depth": 40
+    },
+    {
+        "name": "Le Canyon de Tahiti",
+        "lat": -17.6031,
+        "lng": -149.5128,
         "min_depth": 10,
         "max_depth": 30
     },
     {
-        "name": "Site de Plongée 2",
-        "lat": 48.856613,
-        "lng": 2.352222,
+        "name": "Le Récif de Faa'a",
+        "lat": -17.5532,
+        "lng": -149.6065,
+        "min_depth": 8,
+        "max_depth": 20
+    },
+    {
+        "name": "La Source",
+        "lat": -17.5436,
+        "lng": -149.6115,
+        "min_depth": 20,
+        "max_depth": 35
+    },
+    {
+        "name": "Papa Whiskey",
+        "lat": -17.5314,
+        "lng": -149.6150,
+        "min_depth": 15,
+        "max_depth": 40
+    },
+    {
+        "name": "Aquarium",
+        "lat": -17.5547,
+        "lng": -149.6175,
         "min_depth": 5,
+        "max_depth": 15
+    },
+    {
+        "name": "Tombant St Etienne",
+        "lat": -17.5555,
+        "lng": -149.6123,
+        "min_depth": 20,
+        "max_depth": 40
+    },
+    {
+        "name": "Faille St Etienne",
+        "lat": -17.5560,
+        "lng": -149.6140,
+        "min_depth": 18,
+        "max_depth": 35
+    },
+    {
+        "name": "Banc aux dauphins",
+        "lat": -17.5773,
+        "lng": -149.6042,
+        "min_depth": 10,
         "max_depth": 25
     }
 ]
