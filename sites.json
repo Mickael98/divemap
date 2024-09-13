@@ -294,5 +294,69 @@
         "min_depth": 25,
         "max_depth": 40,
         "location": "Moorea"
+    },
+    {
+        "name": "Trou de la pieuvre",
+        "lat": -16.713436413716682,
+        "lng": -151.42258599896496,
+        "min_depth": 25,
+        "max_depth": 40,
+        "location": "Raiatea"
+    },
+    {
+        "name": "Epave du Nordby",
+        "lat": -16.741276893908665,
+        "lng": -151.4352883719523,
+        "min_depth": 25,
+        "max_depth": 40,
+        "location": "Raiatea"
+    },
+    {
+        "name": "Piton de Ceran",
+        "lat": -16.654467595866652,
+        "lng": -151.42147143435997,
+        "min_depth": 25,
+        "max_depth": 40,
+        "location": "Raiatea"
+    },
+    {
+        "name": "Passe Teavapiti",
+        "lat": -16.743523817117463,
+        "lng": -151.4215968181456,
+        "min_depth": 25,
+        "max_depth": 40,
+        "location": "Raiatea"
+    },
+    {
+        "name": "Passe Miri Miri",
+        "lat": -16.75778390865398,
+        "lng": -151.5068599711671,
+        "min_depth": 25,
+        "max_depth": 40,
+        "location": "Raiatea"
+    },
+    {
+        "name": "Roses",
+        "lat": -16.70137611576537,
+        "lng": -151.5098050126508,
+        "min_depth": 25,
+        "max_depth": 40,
+        "location": "Raiatea"
+    },
+    {
+        "name": "Lagon Nord",
+        "lat": -16.58039307901806,
+        "lng": -151.53562297680358,
+        "min_depth": 25,
+        "max_depth": 40,
+        "location": "Tahaa"
+    },
+    {
+        "name": "Passe de Tiva",
+        "lat": -16.66734727041338,
+        "lng": -151.5399415101757,
+        "min_depth": 25,
+        "max_depth": 40,
+        "location": "Tahaa"
     }
 ]
