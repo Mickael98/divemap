@@ -414,5 +414,21 @@
         "min_depth": 25,
         "max_depth": 40,
         "location": "Huahine"
+    },
+    {
+        "name": "Jardin de Corail",
+        "lat": -16.453027547381367,
+        "lng": -152.2379709726809,
+        "min_depth": 25,
+        "max_depth": 40,
+        "location": "Maupiti"
+    },
+    {
+        "name": "Site des raies Manta",
+        "lat": -16.46596886489134,
+        "lng": -152.24714890874472,
+        "min_depth": 25,
+        "max_depth": 40,
+        "location": "Maupiti"
     }
 ]
