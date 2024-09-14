@@ -27,8 +27,8 @@
         "name": "L'Épave du Catalina",
         "lat": -17.549215241843072,
         "lng": -149.61245153402282,
-        "min_depth": 18,
-        "max_depth": 25,
+        "min_depth": 2,
+        "max_depth": 30,
         "location": "Tahiti"
     },
     {
@@ -99,8 +99,8 @@
         "name": "Banc aux dauphins",
         "lat": -17.497693671696144,
         "lng": -149.50015636581867,
-        "min_depth": 10,
-        "max_depth": 25,
+        "min_depth": 0,
+        "max_depth": 0,
         "location": "Tahiti"
     },
     {
@@ -139,296 +139,296 @@
         "name": "Grotte de Tetopa",
         "lat": -17.76717576044078,
         "lng": -149.33572673218956,
-        "min_depth": 25,
-        "max_depth": 40,
+        "min_depth": 0,
+        "max_depth": 0,
         "location": "Tahiti"
     }, 
     {
         "name": "Trou du Lagon",
         "lat": -17.766975659557563,
         "lng": -149.32301430881267,
-        "min_depth": 25,
-        "max_depth": 40,
+        "min_depth": 0,
+        "max_depth": 0,
         "location": "Tahiti"
     }, 
     {
         "name": "Les Gorgones",
         "lat": -17.808149458750098,
         "lng": -149.31224686678067,
-        "min_depth": 25,
-        "max_depth": 40,
+        "min_depth": 0,
+        "max_depth": 0,
         "location": "Tahiti"
     },
     {
         "name": "Marado",
         "lat": -17.83721569711403,
         "lng": -149.30245902160138,
-        "min_depth": 25,
-        "max_depth": 40,
+        "min_depth": 0,
+        "max_depth": 0,
         "location": "Tahiti"
     },
     {
         "name": "Vavi",
         "lat": -17.819726680550776,
         "lng": -149.306265127959,
-        "min_depth": 25,
-        "max_depth": 40,
+        "min_depth": 0,
+        "max_depth": 0,
         "location": "Tahiti"
     },
     {
         "name": "Temae",
         "lat": -17.501090728642446,
         "lng": -149.7543704025079,
-        "min_depth": 20,
-        "max_depth": 30,
+        "min_depth": 0,
+        "max_depth": 0,
         "location": "Moorea"
     },
     {
         "name": "Eden Park",
         "lat": -17.48014344098056,
         "lng": -149.86762592850795,
-        "min_depth": 10,
-        "max_depth": 20,
+        "min_depth": 0,
+        "max_depth": 0,
         "location": "Moorea"
     },
     {
         "name": "Aquarium",
         "lat": -17.478101406369248,
         "lng": -149.8209856899897,
-        "min_depth": 12,
-        "max_depth": 25,
+        "min_depth": 0,
+        "max_depth": 0,
         "location": "Moorea"
     },
     {
         "name": "Le Mur de Corail",
         "lat": -17.484994168940208,
         "lng": -149.86186308196898,
-        "min_depth": 5,
-        "max_depth": 15,
+        "min_depth": 0,
+        "max_depth": 0,
         "location": "Moorea"
     },
     {
         "name": "Papetoai",
         "lat": -17.48493377108548,
         "lng": -149.88466936882864,
-        "min_depth": 15,
-        "max_depth": 30,
+        "min_depth": 0,
+        "max_depth": 0,
         "location": "Moorea"
     },
     {
         "name": "Mur de Bali-Haï",
         "lat": -17.47246539937346,
         "lng": -149.80212134036861,
-        "min_depth": 30,
-        "max_depth": 50,
+        "min_depth": 0,
+        "max_depth": 0,
         "location": "Moorea"
     },
     {
         "name": "L'île bleue",
         "lat": -17.470286994275213,
         "lng": -149.82884619073423,
-        "min_depth": 30,
-        "max_depth": 50,
+        "min_depth": 0,
+        "max_depth": 0,
         "location": "Moorea"
     },
     {
         "name": "Les Jumeaux",
         "lat": -17.475179123773287,
         "lng": -149.83300994087614,
-        "min_depth": 30,
-        "max_depth": 50,
+        "min_depth": 0,
+        "max_depth": 0,
         "location": "Moorea"
     },
     {
         "name": "Rotui",
         "lat": -17.473869209419565,
         "lng": -149.84648535801676,
-        "min_depth": 30,
-        "max_depth": 50,
+        "min_depth": 0,
+        "max_depth": 0,
         "location": "Moorea"
     },
     {
         "name": "Mamaru",
         "lat": -17.478617604092886,
         "lng": -149.85129187623252,
-        "min_depth": 30,
-        "max_depth": 50,
+        "min_depth": 0,
+        "max_depth": 0,
         "location": "Moorea"
     },
     {
         "name": "Tiki",
         "lat": -17.492698321746936,
         "lng": -149.92733786389005,
-        "min_depth": 30,
-        "max_depth": 50,
+        "min_depth": 0,
+        "max_depth": 0,
         "location": "Moorea"
     },
     {
         "name": "Canyon",
         "lat": -17.476816503547642,
         "lng": -149.87420867146943,
-        "min_depth": 18,
-        "max_depth": 40,
+        "min_depth": 0,
+        "max_depth": 0,
         "location": "Moorea"
     },
     {
         "name": "Le Jardin des Roses",
         "lat": -17.467923130204785,
         "lng": -149.80553284210418,
-        "min_depth": 25,
-        "max_depth": 40,
+        "min_depth": 0,
+        "max_depth": 0,
         "location": "Moorea"
     },
     {
         "name": "Passe de Tiaia",
         "lat": -17.472322187640412,
         "lng": -149.8174817431177,
-        "min_depth": 25,
-        "max_depth": 40,
+        "min_depth": 0,
+        "max_depth": 0,
         "location": "Moorea"
     },
     {
         "name": "Taotoi",
         "lat": -17.48035348975736,
         "lng": -149.8956382501339,
-        "min_depth": 25,
-        "max_depth": 40,
+        "min_depth": 0,
+        "max_depth": 0,
         "location": "Moorea"
     },
     {
         "name": "Trou de la pieuvre",
         "lat": -16.713436413716682,
         "lng": -151.42258599896496,
-        "min_depth": 25,
-        "max_depth": 40,
+        "min_depth": 0,
+        "max_depth": 0,
         "location": "Raiatea"
     },
     {
         "name": "Epave du Nordby",
         "lat": -16.741276893908665,
         "lng": -151.4352883719523,
-        "min_depth": 25,
-        "max_depth": 40,
+        "min_depth": 0,
+        "max_depth": 0,
         "location": "Raiatea"
     },
     {
         "name": "Piton de Ceran",
         "lat": -16.654467595866652,
         "lng": -151.42147143435997,
-        "min_depth": 25,
-        "max_depth": 40,
+        "min_depth": 0,
+        "max_depth": 0,
         "location": "Raiatea"
     },
     {
         "name": "Passe Teavapiti",
         "lat": -16.743523817117463,
         "lng": -151.4215968181456,
-        "min_depth": 25,
-        "max_depth": 40,
+        "min_depth": 0,
+        "max_depth": 0,
         "location": "Raiatea"
     },
     {
         "name": "Passe Miri Miri",
         "lat": -16.75778390865398,
         "lng": -151.5068599711671,
-        "min_depth": 25,
-        "max_depth": 40,
+        "min_depth": 0,
+        "max_depth": 0,
         "location": "Raiatea"
     },
     {
         "name": "Roses",
         "lat": -16.70137611576537,
         "lng": -151.5098050126508,
-        "min_depth": 25,
-        "max_depth": 40,
+        "min_depth": 0,
+        "max_depth": 0,
         "location": "Raiatea"
     },
     {
         "name": "Lagon Nord",
         "lat": -16.58039307901806,
         "lng": -151.53562297680358,
-        "min_depth": 25,
-        "max_depth": 40,
+        "min_depth": 0,
+        "max_depth": 0,
         "location": "Tahaa"
     },
     {
         "name": "Passe de Tiva",
         "lat": -16.66734727041338,
         "lng": -151.5399415101757,
-        "min_depth": 25,
-        "max_depth": 40,
+        "min_depth": 0,
+        "max_depth": 0,
         "location": "Tahaa"
     },
     {
         "name": "Les Roses",
         "lat": -16.675427829124565,
         "lng": -150.99671749123948,
-        "min_depth": 25,
-        "max_depth": 40,
+        "min_depth": 0,
+        "max_depth": 0,
         "location": "Huahine"
     },
     {
         "name": "La cité de corail",
         "lat": -16.680084157028546,
         "lng": -151.03041905418922,
-        "min_depth": 25,
-        "max_depth": 40,
+        "min_depth": 0,
+        "max_depth": 0,
         "location": "Huahine"
     },
     {
         "name": "Fa'amiti",
         "lat": -16.699475194686805,
         "lng": -151.04480152436048,
-        "min_depth": 25,
-        "max_depth": 40,
+        "min_depth": 0,
+        "max_depth": 0,
         "location": "Huahine"
     },
     {
         "name": "Passe Avamoa",
         "lat": -16.709738241676188,
         "lng": -151.04851816101632,
-        "min_depth": 25,
-        "max_depth": 40,
+        "min_depth": 0,
+        "max_depth": 0,
         "location": "Huahine"
     },
     {
         "name": "Passe Avapeihi",
         "lat": -16.72627090245635,
         "lng": -151.04972967682338,
-        "min_depth": 25,
-        "max_depth": 40,
+        "min_depth": 0,
+        "max_depth": 0,
         "location": "Huahine"
     },
     {
         "name": "Aquarium",
         "lat": -16.732031263509775,
         "lng": -151.04254039614034,
-        "min_depth": 25,
-        "max_depth": 40,
+        "min_depth": 0,
+        "max_depth": 0,
         "location": "Huahine"
     },
     {
         "name": "Le tombant de Fitii",
         "lat": -16.740246970152974,
         "lng": -151.0474499321062,
-        "min_depth": 25,
-        "max_depth": 40,
+        "min_depth": 0,
+        "max_depth": 0,
         "location": "Huahine"
     },
     {
         "name": "Jardin de Corail",
         "lat": -16.453027547381367,
         "lng": -152.2379709726809,
-        "min_depth": 25,
-        "max_depth": 40,
+        "min_depth": 0,
+        "max_depth": 0,
         "location": "Maupiti"
     },
     {
         "name": "Site des raies Manta",
         "lat": -16.46596886489134,
         "lng": -152.24714890874472,
-        "min_depth": 25,
-        "max_depth": 40,
+        "min_depth": 0,
+        "max_depth": 0,
         "location": "Maupiti"
     }
 ]
